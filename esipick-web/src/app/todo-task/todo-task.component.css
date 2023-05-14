@@ -1,0 +1,10 @@
+.todo-wrapper {
+    padding: 50px;
+}
+
+.add-btn {
+    width: 150px;
+    background-color: rgb(16, 129, 129);
+    color: white;
+    height: 50px;
+}
